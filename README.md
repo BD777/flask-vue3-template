@@ -1,4 +1,5 @@
 # flask-vue3-template
+something like [flask-vuejs-template](https://github.com/gtalarico/flask-vuejs-template)
 
 ## Project setup
 ```
